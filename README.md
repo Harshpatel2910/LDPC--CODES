@@ -1,7 +1,7 @@
 # LDPC--CODES
-This Relository contain Decoder in LDPC code.
+This Repository contain Decoder in LDPC code.
 Which is based on 5G Technology.
-I implement Decode for this H matrix
+I implement Decode for this three different H matrix
 I use four different method for this decoder
 
 
@@ -11,4 +11,4 @@ I use four different method for this decoder
 4> Soft decision decoding in Binary Erasure  Channel
 
 
-I write all this codes int C++17 language.
+I write all this codes in C++17 language.
